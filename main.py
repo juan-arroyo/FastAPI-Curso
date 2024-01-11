@@ -5,7 +5,7 @@ from models.item_model import Item
 
 
 # Creación de una aplicación FastAPI
-app = FastAPI()
+app = FastAPI()     
 
 
 @app.get('/')
